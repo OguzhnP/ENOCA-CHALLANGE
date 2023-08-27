@@ -1,0 +1,15 @@
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\bin\Debug\net6.0\TransportManagement.Application.deps.json
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\bin\Debug\net6.0\TransportManagement.Application.dll
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\bin\Debug\net6.0\TransportManagement.Application.pdb
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\bin\Debug\net6.0\TransportManagement.Domain.dll
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\bin\Debug\net6.0\TransportManagement.Domain.pdb
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\obj\Debug\net6.0\TransportManagement.Application.csproj.AssemblyReference.cache
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\obj\Debug\net6.0\TransportManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\obj\Debug\net6.0\TransportManagement.Application.AssemblyInfoInputs.cache
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\obj\Debug\net6.0\TransportManagement.Application.AssemblyInfo.cs
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\obj\Debug\net6.0\TransportManagement.Application.csproj.CoreCompileInputs.cache
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\obj\Debug\net6.0\TransportManagement.Application.csproj.CopyComplete
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\obj\Debug\net6.0\TransportManagement.Application.dll
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\obj\Debug\net6.0\refint\TransportManagement.Application.dll
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\obj\Debug\net6.0\TransportManagement.Application.pdb
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Application\obj\Debug\net6.0\ref\TransportManagement.Application.dll

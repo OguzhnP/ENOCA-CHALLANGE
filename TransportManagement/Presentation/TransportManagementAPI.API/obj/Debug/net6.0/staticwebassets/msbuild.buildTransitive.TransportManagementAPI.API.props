@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TransportManagementAPI.API.props" />
+</Project>

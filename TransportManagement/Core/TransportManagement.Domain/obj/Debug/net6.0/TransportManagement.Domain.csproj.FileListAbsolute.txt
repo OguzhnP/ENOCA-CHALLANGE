@@ -1,0 +1,12 @@
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\bin\Debug\net6.0\TransportManagement.Domain.deps.json
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\bin\Debug\net6.0\TransportManagement.Domain.dll
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\bin\Debug\net6.0\TransportManagement.Domain.pdb
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\obj\Debug\net6.0\TransportManagement.Domain.csproj.AssemblyReference.cache
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\obj\Debug\net6.0\TransportManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\obj\Debug\net6.0\TransportManagement.Domain.AssemblyInfoInputs.cache
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\obj\Debug\net6.0\TransportManagement.Domain.AssemblyInfo.cs
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\obj\Debug\net6.0\TransportManagement.Domain.csproj.CoreCompileInputs.cache
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\obj\Debug\net6.0\TransportManagement.Domain.dll
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\obj\Debug\net6.0\refint\TransportManagement.Domain.dll
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\obj\Debug\net6.0\TransportManagement.Domain.pdb
+D:\ENOCACHALLANGE\TransportManagement\Core\TransportManagement.Domain\obj\Debug\net6.0\ref\TransportManagement.Domain.dll
