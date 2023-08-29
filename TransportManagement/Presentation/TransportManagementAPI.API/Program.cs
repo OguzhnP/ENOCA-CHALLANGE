@@ -6,8 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddPersistenceServices();  
-builder.Services.AddApplicationServices();  
-
+builder.Services.AddApplicationServices();
+builder.Services.AddCors(options =>options.AddDefaultPolicy(policy =>policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
 builder.Services.AddControllers();
 
 builder.Services.AddSwaggerGen();
@@ -25,7 +25,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+app.UseCors();
 app.MapControllers();
 
 app.Run();
