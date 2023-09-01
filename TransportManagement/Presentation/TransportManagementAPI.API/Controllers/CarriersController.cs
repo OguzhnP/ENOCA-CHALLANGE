@@ -25,7 +25,7 @@ namespace TransportManagement.Controllers
         public async Task<IActionResult> Get([FromQuery] GetCarriersQueryRequest getCarriersQueryRequest)
         {
             GetCarriersQueryResponse response = await _mediator.Send(getCarriersQueryRequest);
-            return Ok(response);
+            return Ok(response.Carriers);
         }
 
         [HttpPost]

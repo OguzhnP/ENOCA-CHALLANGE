@@ -29,7 +29,7 @@ namespace TransportManagementAPI.API.Controllers
         public async Task<IActionResult> Get([FromQuery] GetCarrierConfigurationsQueryRequest getCarrierConfigurationsQueryRequest)
         {
             GetCarrierConfigurationsQueryResponse response = await _mediator.Send(getCarrierConfigurationsQueryRequest);
-            return Ok(response);
+            return Ok(response.CarrierConfigurations);
         }
 
         [HttpDelete("{Id}")]

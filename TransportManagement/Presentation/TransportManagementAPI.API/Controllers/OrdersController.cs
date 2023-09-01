@@ -25,7 +25,7 @@ namespace TransportManagementAPI.API.Controllers
         public async Task<IActionResult> Get([FromQuery] GetOrdersQueryRequest getOrdersQueryRequest)
         {
             GetOrdersQueryResponse response = await _mediator.Send(getOrdersQueryRequest);
-            return Ok(response);
+            return Ok(response.Orders);
         }
         [HttpDelete("{Id}")]
         public async Task<IActionResult> Delete([FromRoute] RemoveOrderCommandRequest removeOrderCommandRequest)
